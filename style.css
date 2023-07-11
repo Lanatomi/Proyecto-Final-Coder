@@ -1,0 +1,72 @@
+h2{
+  text-align: center;
+}
+#container {
+  
+  margin-top: 200px;
+  grid-template-columns: repeat(6, 1fr);
+  width: 170vh;
+  margin-left: 200px; /* Ajusta los valores de margen según tus preferencias */
+  margin-right: 20%;
+  border: 1px solid black; /* Agrega un borde a la cuadrícula */
+  padding: 1000px; /* Agrega un espacio interno para el contenido de la cuadrícula */
+  color: white;
+
+  background-image: url('Imagen\ Legal.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+th {
+  color: rgba(255, 0, 0, 0.438);
+  background-color: rgba(202, 200, 200, 0.959);
+}
+
+td {
+  height: 1px;
+  /* width: 100%; */
+  border: 1px solid rgb(202, 10, 10);
+  /* padding-left: 5%; */
+  /* padding-right: 230px; */
+  }
+
+  .sidebar {
+    position: fixed; /* Posicionamiento fijo */
+    top: 50%; /* Alineación vertical en el centro */
+    left: 0; /* Alineación a la izquierda */
+    transform: translateY(-50%); /* Ajuste para centrar verticalmente */
+    width: 150px; /* Ancho de la barra lateral */
+    padding: 10px; /* Espaciado interno */
+  }
+  
+  .sidebar button {
+    display: grid; /* Convertir los botones en bloques */
+    width: 100%; /* Ancho completo */
+    margin-bottom: 10px; /* Espacio entre botones */
+  }
+
+#Orden{
+  background-color: green;
+  color: white;
+  display: grid; /* Convertir los botones en bloques */
+    width: 100%; /* Ancho completo */
+    margin-bottom: 10px; /* Espacio entre botones */
+}
+
+#Filtro{
+  background-color: green;
+  color: white;
+  display: grid; /* Convertir los botones en bloques */
+  width: 100%; /* Ancho completo */
+  margin-bottom: 10px; /* Espacio entre botones */
+}
+
+/* input::placeholder {
+  color: red;
+} */
+
+
+  .darkMode{
+    color:white;
+    background-color: rgba(0, 0, 0, 0.863);
+}
