@@ -12,7 +12,7 @@ h2{
   padding: 1000px; /* Agrega un espacio interno para el contenido de la cuadrícula */
   color: white;
 
-  background-image: url('Imagen\ Legal.jpg');
+  background-image: url('Imagen Legal.jpg');
   background-size: cover;
   background-position: center;
 }

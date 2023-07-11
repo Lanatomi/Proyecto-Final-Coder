@@ -266,8 +266,11 @@ function ordenarFila(array){
             case "fechaOrden":
                 archiveroPorfecha(array)
             break
-            default:
+            case "defectoOrden":
                 mostrarfila(array)
+            break
+            default:
+                ""
             break
             }
         }
