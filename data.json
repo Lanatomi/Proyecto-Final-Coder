@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "fecha": "2023-06-16T00:00:00.000Z",
+        "actor": "Lautaro Torres Miranda",
+        "demandado": "Angel Acosta",
+        "objeto": "Daños y perjuicios",
+        "fuero": "Civil",
+        "jurisdiccion": "Caba"
+    },
+    {
+        "id": 2,
+        "fecha": "2023-04-02T00:00:00.000Z",
+        "actor": "Angel Acosta",
+        "demandado": "",
+        "objeto": "Robo Calificado",
+        "fuero": "Penal",
+        "jurisdiccion": "Nacion"
+    },
+    {
+        "id": 3,
+        "fecha": "2005-01-25T00:00:00.000Z",
+        "actor": "Santiago Rodriguez",
+        "demandado": "Volkswagen S.A.",
+        "objeto": "Incumplimiento de contrato",
+        "fuero": "Civil",
+        "jurisdiccion": "Rio Negro"
+    },
+    {
+        "id": 4,
+        "fecha": "2017-12-08T00:00:00.000Z",
+        "actor": "Valentina Perez",
+        "demandado": "",
+        "objeto": "Estafa",
+        "fuero": "Penal",
+        "jurisdiccion": "Buenos Aires"
+    },
+    {
+        "id": 5,
+        "fecha": "2012-10-30T00:00:00.000Z",
+        "actor": "Emiliano Gonzalez",
+        "demandado": "Patito S.R.L.",
+        "objeto": "Contrato de obra",
+        "fuero": "Comercial",
+        "jurisdiccion": "Caba"
+    },
+    {
+        "id": 6,
+        "fecha": "1999-03-17T00:00:00.000Z",
+        "actor": "Emiliano Gonzalez",
+        "demandado": "Estado Nacional",
+        "objeto": "Acto administrativo",
+        "fuero": "Administrativo",
+        "jurisdiccion": "Nacion"
+    },
+    {
+        "id": 7,
+        "fecha": "2017-07-22T00:00:00.000Z",
+        "actor": "Juan Martinez",
+        "demandado": "Martina Lopez",
+        "objeto": "Divorcio",
+        "fuero": "Familia",
+        "jurisdiccion": "Buenos Aires"
+    }
+]
